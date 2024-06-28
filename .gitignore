@@ -1,4 +1,7 @@
 hello
 hello.o
 hello.hi
+json-parser-tutorial
+json-parser-tutorial.o
+json-parser-tutorial.hi
 .direnv
